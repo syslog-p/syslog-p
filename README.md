@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td style="width: 200px;">
-      <img src="image/imagem.jpeg" alt="Descrição da imagem" style="width: 100%;">
+    <td style="width: 100px;">
+      <img src="image/imagem.jpeg" alt="Descrição da imagem" style="width: 70%;">
     </td>
     <td>
       N E O @vulture 
